@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "Realtime chat system for Tutorialzine.com",
   "main": "app.js",
-  "scripts": {
-    "test": "aqui executa o teste"
-  },
   "keywords": [
     "node",
     "chat",
